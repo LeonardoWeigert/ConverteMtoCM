@@ -2,7 +2,7 @@
 
 Conversor de Metros (m) para Centímetros (cm).
 
-Instale o Dev C++
+Instale o Dev C++ /n
 Sistema Operacional Windows
 Desenvolvido em C
 Autor: Leonardo L. Weigert
